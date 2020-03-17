@@ -54,6 +54,7 @@ Response :
     
 - POST MAN : 
 
+![diff](https://user-images.githubusercontent.com/62286636/76855399-0e633100-6877-11ea-9bd6-68ffa761d170.PNG)
 
 ### Basci Authentication Mechanism
 
