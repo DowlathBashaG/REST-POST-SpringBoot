@@ -50,11 +50,11 @@ Response :
 
 ### Basci Authentication Mechanism
 
-- Welcome Page : http://localhost:9091/
+- Welcome page : http://localhost:9091/
 
 ![Wecome](https://user-images.githubusercontent.com/62286636/76852808-25535480-6872-11ea-8510-ed0683698540.PNG)
 
-- User Page : http://localhost:9091/user
+- User page : http://localhost:9091/user
 
     - User Name  :  vmware
     
@@ -62,10 +62,13 @@ Response :
     
 ![User_vmware_Password_vmware](https://user-images.githubusercontent.com/62286636/76853052-9d217f00-6872-11ea-958d-5cddab07ed8b.PNG)
 
-- Admin Page : http://localhost:9091/admin
+- Admin page : http://localhost:9091/admin
 
   - User Name  :  vmwareadmin
     
    - Password    :  vmwareadmin
 
 ![login_vmwareadmin-vmwareadmin](https://user-images.githubusercontent.com/62286636/76853601-a232fe00-6873-11ea-8c88-65c59b69e013.PNG)
+
+- Logout page : http://localhost:9091/logout
+
