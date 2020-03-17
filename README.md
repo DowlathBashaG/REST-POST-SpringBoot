@@ -27,7 +27,7 @@ Response :
     
 - POST MAN : 
 
-
+![addition](https://user-images.githubusercontent.com/62286636/76855306-da880b80-6876-11ea-858c-fbc8c05d013f.PNG)
 
 
 ### API 2- DIFF
