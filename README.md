@@ -9,27 +9,40 @@ Documentation for REST API ( SUM & DIFF) :  https://documenter.getpostman.com/vi
 Request :
 
 {
+
   "x": 100,
+  
   "y": 50
+  
 }
 
 
 Response :
 
 {
+
     "result": 150
+    
 }
 
 ### API 2- DIFF
 
 - POST : http://localhost:9091/api/diff
 
+Request :
+
 {
+
   "x": 100,
+  
   "y": 50
+  
 }
 
+Response :
 
 {
+
     "result": 50
+    
 }
