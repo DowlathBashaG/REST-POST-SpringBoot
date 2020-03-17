@@ -24,6 +24,11 @@ Response :
         "result": 150
 
     }
+    
+- POST MAN : 
+
+
+
 
 ### API 2- DIFF
 
