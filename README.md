@@ -58,8 +58,10 @@ Response :
 
     - User Name  :  vmware
     
-    - Password   :  vmware
+    - Password    :  vmware
     
 ![User_vmware_Password_vmware](https://user-images.githubusercontent.com/62286636/76853052-9d217f00-6872-11ea-958d-5cddab07ed8b.PNG)
 
+- User Page Logout 
 
+![User_Logout](https://user-images.githubusercontent.com/62286636/76853262-f689ae00-6872-11ea-964f-0bcad756f21b.PNG)
