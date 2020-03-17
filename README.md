@@ -56,3 +56,10 @@ Response :
 
 - User Page : http://localhost:9091/user
 
+    - User Name  :  vmware
+    
+    - Password   :  vmware
+    
+![User_vmware_Password_vmware](https://user-images.githubusercontent.com/62286636/76853052-9d217f00-6872-11ea-958d-5cddab07ed8b.PNG)
+
+
