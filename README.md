@@ -72,3 +72,4 @@ Response :
 
 - Logout page : http://localhost:9091/logout
 
+![User_Logout](https://user-images.githubusercontent.com/62286636/76855190-9eed4180-6876-11ea-998a-db16cbac059e.PNG)
