@@ -64,6 +64,8 @@ Response :
 
 - Admin Page : http://localhost:9091/admin
 
-
+  - User Name  :  vmwareadmin
+    
+   - Password    :  vmwareadmin
 
 
