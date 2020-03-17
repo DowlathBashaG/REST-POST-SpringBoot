@@ -46,3 +46,6 @@ Response :
         "result": 50
 
     }
+    
+
+### Basci Authentication Mechanism
