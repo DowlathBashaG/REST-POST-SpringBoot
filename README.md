@@ -8,22 +8,22 @@ Documentation for REST API ( SUM & DIFF) :  https://documenter.getpostman.com/vi
 
 Request :
 
-{
+    {
 
-  "x": 100,
-  
-  "y": 50
-  
-}
+      "x": 100,
+
+      "y": 50
+
+    }
 
 
 Response :
 
-{
+    {
 
-    "result": 150
-    
-}
+        "result": 150
+
+    }
 
 ### API 2- DIFF
 
@@ -31,18 +31,18 @@ Response :
 
 Request :
 
-{
+    {
 
-  "x": 100,
-  
-  "y": 50
-  
-}
+      "x": 100,
+
+      "y": 50
+
+    }
 
 Response :
 
-{
+    {
 
-    "result": 50
-    
-}
+        "result": 50
+
+    }
