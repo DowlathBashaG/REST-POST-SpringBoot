@@ -52,6 +52,8 @@ Response :
 
     }
     
+- POST MAN : 
+
 
 ### Basci Authentication Mechanism
 
