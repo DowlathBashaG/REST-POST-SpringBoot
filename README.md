@@ -68,4 +68,4 @@ Response :
     
    - Password    :  vmwareadmin
 
-
+![login_vmwareadmin-vmwareadmin](https://user-images.githubusercontent.com/62286636/76853601-a232fe00-6873-11ea-8c88-65c59b69e013.PNG)
