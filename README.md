@@ -1,4 +1,4 @@
-# VMWare-Project
+# Project
 
 Documentation for REST API ( SUM & DIFF) :  https://documenter.getpostman.com/view/5842867/SzS4STPT
 
